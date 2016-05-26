@@ -1,2 +1,2 @@
-*Hello
-*Goodbye cruel world!
+* Hello
+* Goodbye cruel world!
