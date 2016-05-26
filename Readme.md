@@ -1,2 +1,2 @@
 Hello
-Goodbye
+Goodbye cruel world!
